@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/theDogApi-Collection/static/css/main.244a69a6.css",
-    "main.js": "/theDogApi-Collection/static/js/main.9f6aeb02.js",
-    "static/js/787.9389d978.chunk.js": "/theDogApi-Collection/static/js/787.9389d978.chunk.js",
-    "index.html": "/theDogApi-Collection/index.html",
-    "main.244a69a6.css.map": "/theDogApi-Collection/static/css/main.244a69a6.css.map",
-    "main.9f6aeb02.js.map": "/theDogApi-Collection/static/js/main.9f6aeb02.js.map",
-    "787.9389d978.chunk.js.map": "/theDogApi-Collection/static/js/787.9389d978.chunk.js.map"
+    "main.css": "//andrewfpai.github.io/theDogApi-Collection-App/static/css/main.244a69a6.css",
+    "main.js": "//andrewfpai.github.io/theDogApi-Collection-App/static/js/main.5e82ffaa.js",
+    "static/js/787.9389d978.chunk.js": "//andrewfpai.github.io/theDogApi-Collection-App/static/js/787.9389d978.chunk.js",
+    "index.html": "//andrewfpai.github.io/theDogApi-Collection-App/index.html",
+    "main.244a69a6.css.map": "//andrewfpai.github.io/theDogApi-Collection-App/static/css/main.244a69a6.css.map",
+    "main.5e82ffaa.js.map": "//andrewfpai.github.io/theDogApi-Collection-App/static/js/main.5e82ffaa.js.map",
+    "787.9389d978.chunk.js.map": "//andrewfpai.github.io/theDogApi-Collection-App/static/js/787.9389d978.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.244a69a6.css",
-    "static/js/main.9f6aeb02.js"
+    "static/js/main.5e82ffaa.js"
   ]
 }
